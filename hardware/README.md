@@ -134,3 +134,10 @@ python robot_controller_node.py</code></pre>
 You should see the robot start running.
 
 <img src="assets/starting_demo.gif" width="35%" />
+
+
+### Step 5: Gello Teleop
+
+
+You can find a good CAD model [here](https://github.com/robot-learning-co/leader-arm).
+You can also find our full-size gello [here](https://github.com/haoyu-x/vision-in-action/tree/main/hardware/3D_Printing/ARX_gello).
