@@ -78,7 +78,7 @@ make -j</code></pre>
 
 📍 <a href="/data_collection">Data Collection & Processing.</a> 
 
-🖥 <a href="/via_diffusion_policy#policy-training">Model Training.</a>
+🖥  <a href="/via_diffusion_policy#policy-training">Model Training.</a>
 
 🤖 <a href="/via_diffusion_policy#policy-deployment">Robot Deployment.</a>
 
