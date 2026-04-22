@@ -128,12 +128,10 @@ This work was supported in part by the Toyota Research Institute, NSF awards #21
 
 If you find this codebase useful, consider citing:
 
-<pre><code>@inproceedings{xiong2025vision,
-  title={Vision in Action: Learning Active Perception from Human Demonstrations},
+<pre><code>@article{xiong2025vision,
+  title={Vision in action: Learning active perception from human demonstrations},
   author={Xiong, Haoyu and Xu, Xiaomeng and Wu, Jimmy and Hou, Yifan and Bohg, Jeannette and Song, Shuran},
-  booktitle={Conference on Robot Learning},
-  pages={5450--5463},
-  year={2025},
-  organization={PMLR}
-}	</code></pre>
+  journal={arXiv preprint arXiv:2506.15666},
+  year={2025}
+}</code></pre>
 
